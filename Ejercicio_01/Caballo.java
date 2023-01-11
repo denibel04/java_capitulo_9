@@ -3,7 +3,7 @@ public class Caballo {
     private int edad, premios;
     private String nombre, raza, color;
 
-    Caballo (String n, String r, String c, int e, int p) {
+    private Caballo (String n, String r, String c, int e, int p) {
         this.nombre = n;
         this.raza = r;
         this.color = c;
