@@ -11,8 +11,8 @@ package Ejercicio_01;
 import java.util.Scanner;
 public class Ejercicio01 {
     public static void main (String[] args) {
-        Caballo rainbowDash = new Caballo("Rainbow Dash", "Pegaso", "Azul", 16, 132);
-        Caballo appleBloom = new Caballo("Apple Bloom", "Pony", "Rosa", 12, 3);
+        Caballo rainbowDash = new Caballo("Rainbow Dash", "pegaso", "azul", 16, 132);
+        Caballo appleBloom = new Caballo("Apple Bloom", "pony", "rosa", 12, 3);
 
         System.out.printf("Mi nombre es %s, y soy un %s %s. He ganado %d premios!\n", rainbowDash.getNombre(), rainbowDash.getRaza(), rainbowDash.getColor(), rainbowDash.getPremios());
         rainbowDash.trotar();

@@ -17,8 +17,8 @@ public class Ejercicio02 {
         Scanner sc = new Scanner(System.in);
         int opcion;
         int km;
-        Bicicleta bhSpeedrom = new Bicicleta(9);
-        Coche saab93 = new Coche(1900);
+        Bicicleta bici = new Bicicleta(9);
+        Coche coche = new Coche(1900);
         do {
             System.out.print("VEHÍCULOS\n" +
                     "=========\n" +
@@ -36,26 +36,26 @@ public class Ejercicio02 {
                 case 1:
                     System.out.print("¿Cuántos kilómetros quiere recorrer? ");
                     km = sc.nextInt();
-                    bhSpeedrom.recorre(km);
+                    bici.recorre(km);
                     break;
                 case 2:
-                    bhSpeedrom.caballito();
+                    bici.caballito();
                     break;
                 case 3:
                     System.out.print("¿Cuántos kilómetros quiere recorrer? ");
                     km = sc.nextInt();
-                    saab93.recorre(km);
+                    coche.recorre(km);
                     break;
                 case 4:
-                    saab93.quemaRueda();
+                    coche.quemaRueda();
                     break;
                 case 5:
                     System.out.println("La bicicleta lleva recorridos ");
-                    System.out.println(bhSpeedrom.getKilometrosRecorridos() + " Km");
+                    System.out.println(bici.getKilometrosRecorridos() + " Km");
                     break;
                 case 6:
                     System.out.println("El coche lleva recorridos ");
-                    System.out.println(saab93.getKilometrosRecorridos() + " Km");
+                    System.out.println(coche.getKilometrosRecorridos() + " Km");
                     break;
                 case 7:
                     System.out.println("Los vehículos llevan recorridos ");
