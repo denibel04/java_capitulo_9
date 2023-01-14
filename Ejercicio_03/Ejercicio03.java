@@ -1,6 +1,6 @@
 package Ejercicio_03;
 /*
- * Capítulo 8 - programación orientada a objetos 
+ * Capítulo 9 - programación orientada a objetos
  * Ejercicio 3: Crea las clases Animal, Mamifero, Ave, Gato, Perro, Canario, Pinguino y Lagarto. Crea, al menos, tres métodos específicos de cada clase
  * y redefine el/los método/s cuando sea necesario. Prueba las clases creadas en un programa en el que se instancien objetos y se les apliquen métodos.
  *

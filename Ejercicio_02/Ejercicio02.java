@@ -1,6 +1,6 @@
 package Ejercicio_02;
 /*
- * Capítulo 8 - programación orientada a objetos 
+ * Capítulo 9 - programación orientada a objetos
  * Ejercicio 2: Crea la clase Vehiculo, así como las clases Bicicleta y Coche como subclases de
  * la primera. Para la clase Vehiculo, crea los atributos de clase vehiculosCreadosy
  * kilometrosTotales, así como el atributo de instancia kilometrosRecorridos. Crea

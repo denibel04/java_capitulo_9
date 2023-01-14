@@ -1,6 +1,6 @@
 package Ejercicio_04;
 /*
- * Capítulo 8 - programación orientada a objetos 
+ * Capítulo 9 - programación orientada a objetos
  * Ejercicio 4: Crea la clase Fracción. Los atributos serán numerador y denominador. Y algunos de los
  * métodos pueden ser invierte, simplifica, multiplica, divide, etc.
  *

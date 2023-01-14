@@ -1,7 +1,7 @@
 package Ejercicio_01;
 
 /*
- * Capítulo 8 - programación orientada a objetos 
+ * Capítulo 9 - programación orientada a objetos
  * Ejercicio 1: Implementa la clase Caballo vista en un ejercicio anterior. Pruébala creando
  * instancias y aplicándole algunos métodos.
  *
