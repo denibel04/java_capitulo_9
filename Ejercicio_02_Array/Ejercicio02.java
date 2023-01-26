@@ -11,7 +11,7 @@ package Ejercicio_02_Array;
 public class Ejercicio02 {
     public static void main (String[] args) {
         Gato[] gatito = new Gato[4];
-        gatito[0] = new Gato("Juanarrow", "chocolate", "pornstar");
+        gatito[0] = new Gato("Chopi", "chocolate", "viejo");
         gatito[1] = new Gato("Rin", "blanco y negro", "hembra");
         gatito[2] = new Gato("Len", "siames rubio", "macho");
         gatito[3] = new Gato("Jesus", "negro", "peruano");
